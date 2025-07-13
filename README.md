@@ -37,7 +37,7 @@ graph LR
 ## 🚀 **Installation & Setup**  
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone <https://github.com/vishwastiwarig/medicalbot_genai>
+git clone <https://(https://github.com/VimarshDwivedi/medicalbot_genai_main.)
 cd <medicalbot_genai>
 ```
 
